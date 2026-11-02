@@ -1,4 +1,4 @@
-# Task 2: Customer Segmentation
+# Customer Segmentation
 
 Clusters mall customers into segments by annual income and spending score.
 
